@@ -1,11 +1,11 @@
-BELFRY: Oakewood (obscured)
+BELFRY: Oakewood, I need your help. (obscured)
 [SFX: WWWWAAAAAAAAAAAAAWAAAAAAAAAA]
 
-OAKEWOOD: (obscured)
+OAKEWOOD: What? (obscured)
 
 [SFX: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
 
-OAKEWOOD: (obscured) me?
+OAKEWOOD: (obscured) Why me?
 
 [SFX: AAAAAAAAAAmmph-!]
 
